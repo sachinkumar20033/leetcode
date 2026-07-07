@@ -22,13 +22,12 @@ void solve(TreeNode*root,int targetSum,int sum,vector<int>path,vector<vector<int
 
     if(root->left==NULL && root->right==NULL)
     {
-       if(sum==targetSum)
-       {
+        if(sum==targetSum)
+        {
             ans.push_back(path);
-       }
-       return;
+        }
+        return;
     }
-
     solve(root->left,targetSum,sum,path,ans);
     solve(root->right,targetSum,sum,path,ans);
 }
