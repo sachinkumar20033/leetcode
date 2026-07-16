@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/sachinkumar20033/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/sachinkumar20033/leetcode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar20033/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +78,17 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar20033/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
