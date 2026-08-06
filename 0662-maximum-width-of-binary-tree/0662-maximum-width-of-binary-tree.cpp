@@ -22,18 +22,19 @@ public:
         while(!q.empty())
         {
             int size=q.size();
-            unsigned long long leftmostindex=q.front().second;
-            unsigned long long rightmostindex=q.back().second;
-            unsigned long long currlevelwidth=rightmostindex-leftmostindex+1;
-            maxwidth= max(maxwidth,(int)currlevelwidth);
+            unsigned long long leftmostIndex=q.front().second;
+            unsigned long long rightmostIndex=q.back().second;
+            unsigned long long currLevelIndex=rightmostIndex-leftmostIndex+1;
+            maxwidth=max(maxwidth,(int)currLevelIndex);
 
-            for( unsigned long long i=0;i<size;i++)
+            for(unsigned long long int i=0;i<size;i++)
             {
                 auto front=q.front();
                 q.pop();
 
                 auto node=front.first;
                 auto index=front.second;
+
                 if(node->left)
                 {
                     q.push({node->left,2*index});
