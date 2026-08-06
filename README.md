@@ -16,6 +16,7 @@
 | [0437-path-sum-iii](https://github.com/sachinkumar20033/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0437-path-sum-iii](https://github.com/sachinkumar20033/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sachinkumar20033/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | [0437-path-sum-iii](https://github.com/sachinkumar20033/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/sachinkumar20033/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
