@@ -70,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/sachinkumar20033/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sachinkumar20033/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachinkumar20033/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachinkumar20033/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
