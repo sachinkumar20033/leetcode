@@ -71,6 +71,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sachinkumar20033/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachinkumar20033/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sachinkumar20033/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachinkumar20033/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachinkumar20033/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
