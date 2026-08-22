@@ -9,7 +9,7 @@ public:
             leftsum=leftsum+cardPoints[i];
         }
         maxsum=leftsum;
-        
+
         int rightindex=cardPoints.size()-1;
         for(int i=k-1;i>=0;i--)
         {
