@@ -19,15 +19,16 @@ public:
         }
         queue<pair<TreeNode*,unsigned long long>>q;
         q.push({root,1});
+
         while(!q.empty())
         {
             int size=q.size();
-            unsigned long long leftmostIndex=q.front().second;
-            unsigned long long rightmostIndex=q.back().second;
-            unsigned long long currLevelIndex=rightmostIndex-leftmostIndex+1;
-            maxwidth=max(maxwidth,(int)currLevelIndex);
+            unsigned long long leftmostindex=q.front().second;
+            unsigned long long rightmostindex=q.back().second;
+            unsigned long long currentlevelindex=rightmostindex-leftmostindex+1;
+            maxwidth=max(maxwidth,(int)currentlevelindex);
 
-            for(unsigned long long int i=0;i<size;i++)
+            for(unsigned long long i=0;i<size;i++)
             {
                 auto front=q.front();
                 q.pop();
