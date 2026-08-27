@@ -72,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/sachinkumar20033/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar20033/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sachinkumar20033/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sachinkumar20033/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -121,11 +122,13 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/sachinkumar20033/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar20033/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar20033/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
