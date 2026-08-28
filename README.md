@@ -68,6 +68,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sachinkumar20033/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sachinkumar20033/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachinkumar20033/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sachinkumar20033/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sachinkumar20033/leetcode/tree/master/0283-move-zeroes) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sachinkumar20033/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sachinkumar20033/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sachinkumar20033/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
