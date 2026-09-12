@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/sachinkumar20033/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sachinkumar20033/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachinkumar20033/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sachinkumar20033/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachinkumar20033/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
