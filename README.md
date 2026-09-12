@@ -76,6 +76,7 @@
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinkumar20033/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar20033/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar20033/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachinkumar20033/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sachinkumar20033/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -170,6 +171,7 @@
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sachinkumar20033/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sachinkumar20033/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar20033/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachinkumar20033/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachinkumar20033/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sachinkumar20033/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar20033/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
