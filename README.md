@@ -116,6 +116,7 @@
 | [0070-climbing-stairs](https://github.com/sachinkumar20033/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sachinkumar20033/leetcode/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachinkumar20033/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar20033/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachinkumar20033/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Interactive
 |  |
 | ------- |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachinkumar20033/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachinkumar20033/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
