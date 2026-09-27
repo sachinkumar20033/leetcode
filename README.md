@@ -88,6 +88,7 @@
 | [1929-concatenation-of-array](https://github.com/sachinkumar20033/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachinkumar20033/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachinkumar20033/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sachinkumar20033/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sachinkumar20033/leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachinkumar20033/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sachinkumar20033/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachinkumar20033/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
