@@ -90,6 +90,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sachinkumar20033/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sachinkumar20033/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/sachinkumar20033/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [1929-concatenation-of-array](https://github.com/sachinkumar20033/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachinkumar20033/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachinkumar20033/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/sachinkumar20033/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
