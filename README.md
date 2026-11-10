@@ -116,11 +116,13 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sachinkumar20033/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sachinkumar20033/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sachinkumar20033/leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachinkumar20033/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/sachinkumar20033/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sachinkumar20033/leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachinkumar20033/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -220,6 +222,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sachinkumar20033/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sachinkumar20033/leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachinkumar20033/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Interactive
